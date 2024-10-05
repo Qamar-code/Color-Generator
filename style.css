@@ -1,0 +1,30 @@
+body{
+    font-family: arial,'san serif';
+    text-align: center;
+    font-size: 1rem;
+    color: #FFF;
+    background: url(https://img.freepik.com/free-photo/abstract-uv-ultraviolet-light-composition_23-2149243965.jpg?w=740&t=st=1710049432~exp=1710050032~hmac=90176a0806172653070f3aa2bad01e1890fa99d20d3960cc49666b7550519791);
+    background-size: cover;
+    background-position: center;
+}
+
+div{
+    height: 100px;
+    width: 500px;
+    border: 1px solid #FFF;
+    margin: 1rem 27rem;
+    border-radius: 10px;
+    padding-top: 1rem;
+}
+
+button{
+    color: #FFF;
+    background-color: black;
+    border: none;
+    border-radius: 20px;
+    font-size: 1rem;
+    margin: 2rem;
+    height: 2.5rem;
+    width: 10rem;
+    border: 1px solid #FFF;
+}
